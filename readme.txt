@@ -18,3 +18,6 @@ zhe shi ce shi
 
 版本三
 添加GPL
+
+暂存区
+工作区
